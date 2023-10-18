@@ -30,8 +30,8 @@ li {
 li::before {
   content: ""; 
   background-image: url('./assets/medal.png'); 
-  width: 20px; 
-  height: 20px; 
+  width: 25px; 
+  height: 25px; 
   display: inline-block;
   vertical-align: middle;
   margin-right:50px; 
